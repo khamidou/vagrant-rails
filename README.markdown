@@ -18,6 +18,6 @@ Vagrant-rails sets up a virtual machine for rails development, with ruby 2.0 and
 
 8. cd in your blog directory and run `rails s` to launch the rails server. Browsing to http://192.168.50.4:3000 should show you the rails welcome page.
     
-### Why vagrant\_rails ?
+### Why vagrant-rails ?
 
 It's pretty complicated for a beginner to get started with rails, particularly if you're learning git and unix at the same time. vagrant-rails tries to remove the pain of setting up a base dev environment. 
